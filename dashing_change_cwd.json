@@ -1,0 +1,6 @@
+{
+  "name": "dashing-js",
+  "script": "dashing-js",
+  "args": ["start"],
+  "cwd": "/home/pi/NoteRF-Soft/Dashing"
+}
